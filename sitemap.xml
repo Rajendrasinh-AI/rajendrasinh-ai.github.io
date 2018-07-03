@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/post/my-first-post/</loc>
+    <loc>https://rajendrasinh-ai.github.io/post/my-first-post/</loc>
     <lastmod>2018-06-29T01:09:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://rajendrasinh-ai.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2018-06-29T01:09:07+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://rajendrasinh-ai.github.io/tags/hugo/</loc>
     <lastmod>2018-06-29T01:09:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://rajendrasinh-ai.github.io/post/</loc>
     <lastmod>2018-06-29T01:09:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://rajendrasinh-ai.github.io/</loc>
     <lastmod>2018-06-29T01:09:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/theme/</loc>
+    <loc>https://rajendrasinh-ai.github.io/tags/</loc>
+    <lastmod>2018-06-29T01:09:07+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rajendrasinh-ai.github.io/tags/theme/</loc>
     <lastmod>2018-06-29T01:09:07+05:30</lastmod>
     <priority>0</priority>
   </url>

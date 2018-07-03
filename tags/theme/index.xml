@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme on Rajendrasinh Parmar</title>
-    <link>http://localhost:1313/tags/theme/</link>
+    <link>https://rajendrasinh-ai.github.io/tags/theme/</link>
     <description>Recent content in Theme on Rajendrasinh Parmar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jun 2018 01:09:07 +0530</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rajendrasinh-ai.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/post/my-first-post/</link>
+      <link>https://rajendrasinh-ai.github.io/post/my-first-post/</link>
       <pubDate>Fri, 29 Jun 2018 01:09:07 +0530</pubDate>
       
-      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <guid>https://rajendrasinh-ai.github.io/post/my-first-post/</guid>
       <description>My first blog This is my first post for setting up rajendrasinh-ai.io repository. I&amp;rsquo;ve Added automatic deployment script for the repository.</description>
     </item>
     
